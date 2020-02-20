@@ -1,6 +1,6 @@
 1. Summer
-   -Swimming
-   -Fishing
+   - Swimming
+   - Fishing
 2. Fall
-   -Sightseeing
-   -Hiking :heart:
+   - Sightseeing
+   - Hiking :heart:
