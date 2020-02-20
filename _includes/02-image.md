@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of season](https://pixabay.com/images/id-1072823/)
